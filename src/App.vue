@@ -1,6 +1,9 @@
 <template>
   <div id="app">
-    <Todo></Todo>
+    <amplify-authenticator>
+      <Todo></Todo>
+      <amplify-sign-out></amplify-sign-out>
+    </amplify-authenticator>
   </div>
 </template>
 

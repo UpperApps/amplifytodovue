@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifytodovue-dev-123332",
       "StackId": "arn:aws:cloudformation:ca-central-1:641481562381:stack/amplify-amplifytodovue-dev-123332/683b4720-fb67-11ea-9811-06eb57beb9de",
       "AmplifyAppId": "d3q90m1o4c17hx"
+    },
+    "categories": {
+      "auth": {
+        "amplifytodovuecc7e928f": {}
+      }
     }
   }
 }
