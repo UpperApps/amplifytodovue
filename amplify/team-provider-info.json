@@ -1,26 +1,26 @@
 {
-    "dev": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-amplifytodovue-dev-123332-authRole",
-            "UnauthRoleArn": "arn:aws:iam::641481562381:role/amplify-amplifytodovue-dev-123332-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::641481562381:role/amplify-amplifytodovue-dev-123332-authRole",
-            "Region": "ca-central-1",
-            "DeploymentBucketName": "amplify-amplifytodovue-dev-123332-deployment",
-            "UnauthRoleName": "amplify-amplifytodovue-dev-123332-unauthRole",
-            "StackName": "amplify-amplifytodovue-dev-123332",
-            "StackId": "arn:aws:cloudformation:ca-central-1:641481562381:stack/amplify-amplifytodovue-dev-123332/683b4720-fb67-11ea-9811-06eb57beb9de",
-            "AmplifyAppId": "d3q90m1o4c17hx"
-        },
-        "categories": {
-            "auth": {
-                "amplifytodovuecc7e928f": {}
-            },
-            "hosting": {
-                "amplifyhosting": {
-                    "appId": "d3q90m1o4c17hx",
-                    "type": "manual"
-                }
-            }
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifytodovue-dev-193550-authRole",
+      "UnauthRoleArn": "arn:aws:iam::641481562381:role/amplify-amplifytodovue-dev-193550-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::641481562381:role/amplify-amplifytodovue-dev-193550-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifytodovue-dev-193550-deployment",
+      "UnauthRoleName": "amplify-amplifytodovue-dev-193550-unauthRole",
+      "StackName": "amplify-amplifytodovue-dev-193550",
+      "StackId": "arn:aws:cloudformation:us-east-1:641481562381:stack/amplify-amplifytodovue-dev-193550/750384a0-fba2-11ea-9b92-12717722e021",
+      "AmplifyAppId": "d1pd67yanv5kas"
+    },
+    "categories": {
+      "auth": {
+        "amplifytodovuecc7e928f": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1pd67yanv5kas",
+          "type": "manual"
         }
+      }
     }
+  }
 }
