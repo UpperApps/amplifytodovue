@@ -30,3 +30,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Publishing this application
+To publish this application on AWS Amplify you need to do the following steps:
+- Run the command `npm run build`
+- Run the command `amplify publish`
